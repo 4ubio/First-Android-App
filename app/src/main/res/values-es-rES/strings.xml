@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sneakers App</string>
+    <string name="greeting">Hola Mundo!</string>
+    <string name="greeting2">Hola Sebas!</string>
+</resources>
