@@ -49,7 +49,7 @@ fun theBoxFunc(name: String, modifier: Modifier, color: Color = Color.White){
 
 @Preview(showBackground = true)
 @Composable
-fun theBox2(){
+fun TheBox2(){
     Box(modifier = Modifier
         .height(300.dp)
         .width(300.dp)
